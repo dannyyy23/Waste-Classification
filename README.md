@@ -18,16 +18,6 @@ This project implements an **waste classification system** using a **Convolution
 
 Correct sorting improves recycling rates and supports waste policies.
 
----
-
-## Features
-
-- **Three-way classification**: Recyclables, Organics, Garbage  
-- **CNN-based model**: Image-based recognition for waste items  
-- **Kaggle dataset**: Built on the [Garbage Classification](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) dataset  
-- **Colab**: Run training and inference in [Google Colab](https://colab.research.google.com/drive/1DwQH7gpNhyndRHKVaGxC9fyDRytK74cB?usp=sharing) with no local setup  
-
----
 
 ## Dataset & Data Processing
 
@@ -44,7 +34,6 @@ Correct sorting improves recycling rates and supports waste policies.
 Details on layers, hyperparameters, and training procedure are in the Colab notebook.
 
 
-- **Dataset**: [Garbage Classification](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) on Kaggle  
 - **Course**: APS360 – Applied Fundamentals of Deep Learning  
 
 ---
