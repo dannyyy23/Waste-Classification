@@ -1,4 +1,4 @@
-#Waste Classification
+APS360 Project -- Waste Classification -- 
 
 Waste Classification for Residential ApartmentsThis project develops an automated waste classification system using a Convolutional Neural Network (CNN). 
 
